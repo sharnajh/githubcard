@@ -1,0 +1,51 @@
+body {
+    background-color:#111111;
+    color:white;
+    font-family: 'Raleway', sans-serif;
+    text-align:center;
+    a:link, a:visited, a:active {
+        color: #42d4f4; 
+        text-decoration:none; 
+    }
+    a:hover {
+        color:#3bbad6;
+    }
+    h1, h2, h3 {
+        margin:5px;
+    }
+    h2 {
+        font-size:18px;
+    }
+    h3 {
+        font-size:15px;
+        margin-bottom:10px;
+    }
+        #card {
+            width:280px;
+            height:auto;
+            margin:auto;
+            background-color:#161616;
+            border-radius:15px;
+            text-align:center;
+            padding:10px;
+             box-shadow: 0px 10px 90px black;
+                img {
+                    width:120px;
+                    border-radius: 50%;
+                    border:solid white 4px;
+                }
+                table {
+                    text-align:center;
+                }
+                tr {
+                    color:#ff1168;
+                }
+                th {
+                    color:white;
+                    font-size:13px;
+                }
+                td {
+                    width:100px;
+                    font-size:23px;
+                }
+}}
