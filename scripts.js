@@ -1,7 +1,7 @@
 let card = document.getElementById('card');
 
 axios.get('https://api.github.com/users/sharnajh', 
-{ headers: {"Authorization" : `Bearer 067d4ae754df79a02ae29b119f25b8f3989db835`} })
+{ headers: {"Authorization" : `Bearer /* blacked out */`} })
 .then((response) => {
     let data = response.data;
     let avatar = data.avatar_url;
