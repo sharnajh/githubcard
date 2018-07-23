@@ -16,7 +16,6 @@ body {
     font-size: 15px;
     margin-bottom: 10px; }
   body #card {
-    top: 50vh;
     width: 280px;
     height: auto;
     margin: auto;
